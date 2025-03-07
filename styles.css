@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(135deg, #74EBD5 0%, #9FACE6 100%);
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+form {
+    background: #fff;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+form:hover {
+    transform: scale(1.02);
+}
